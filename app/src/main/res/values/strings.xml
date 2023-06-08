@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RouteMapExample</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        aqui_va_la_llave_de_google_para_acceder_a_su_GOOGLE_MAPS_API
+    </string>
+
+</resources>
